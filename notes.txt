@@ -1,3 +1,6 @@
+                FAAZAL PLAZA ATTENDANCE SOFTWARE UPDATES BY CSMDSOFT
+                              DATE ON : 05-08-2022 10:46 PM
+
 1: Fix bug on recent error
 2: Fix bug in Payments Register
 
