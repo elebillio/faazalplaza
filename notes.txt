@@ -1,10 +1,10 @@
-                               FAAZAL PLAZA ATTENDANCE SOFTWARE UPDATES BY CSMDSOFT
-                                             DATE ON : 05-08-2022 11:15 PM
-                                                    VERSION 3.1.MG
+FAAZAL PLAZA ATTENDANCE SOFTWARE UPDATES BY CSMDSOFT,
+DATE ON : 05-08-2022 11:15 PM,
+VERSION 3.1.MG,
                                       
-======================================================================
-1: Fix bug on recent error
-2: Fix bug in Payments Register
-======================================================================
+======================================================================,
+1: Fix bug on recent error,
+2: Fix bug in Payments Register,
+======================================================================,
 
-CONTACT ME: 0318-7785452, 0310-7397851
+CONTACT ME: 0318-7785452 0310-7397851
